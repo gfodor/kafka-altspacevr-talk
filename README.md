@@ -2,6 +2,8 @@ Repository shortlink: https://altvr.com/kafka
 
 This repository contains the material for the talk "Hanging Out With Your Past Self In VR: Time-Shifted Avatar Replication Using Kafka Streams" presented at Kafka Summit 2017 NYC.
 
+*Want to come work on this stuff? E-mail your resume and cover letter (with the subject "Kafka Summit") to greg@altvr.com*
+
 # Demo Instructions
 
 To participate in the live demo, here are the steps:
