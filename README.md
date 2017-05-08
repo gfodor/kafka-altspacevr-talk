@@ -20,7 +20,7 @@ You'll need to create an AltspaceVR account. (Or sign in if you have one already
 
 ![Register Button](http://i.imgur.com/r42gFnM.png)
 
-![Register Form](http://i.imgur.com/JG3jY6Q.png)
+![Register Form](http://i.imgur.com/rI3O9PY.png)
 
 ### Step 3: Open demo web page
 
