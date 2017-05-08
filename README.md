@@ -32,12 +32,18 @@ And then, click on this button (sorry, it's really tiny on mobile!):
 
 ![Visit Button](http://i.imgur.com/yy2nedg.png)
 
-### Step 4: Enter AltspaceVR
+### Step 4: Wait!
 
-This will launch you into AltspaceVR, now click Enter:
+If you see a big "Enter" button, you are now ready to jump into the demo!
+
+Please wait until the talk gets to the "Demo" portion before continuing.
+
+### Step 5: Enter AltspaceVR
+
+Now click Enter:
 
 ![Enter VR](http://i.imgur.com/gh3i0Kj.png)
 
-### Step 5: Have fun!
+### Step 6: Have fun!
 
 While in AltspaceVR, just use pinch-to-zoom to move around. You can touch drag to look around or rotate your phone.
