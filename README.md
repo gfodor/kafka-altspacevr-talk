@@ -26,7 +26,7 @@ In your mobile browser, go to:
 
 https://account.altvr.com/spaces/kafka-summit-demo
 
-And then, click on this button (sorry, it's really tiny on mobile!):
+You may be prompted to open it in the AltspaceVR app, if so, do that! If not, click on this button (sorry, it's really tiny on mobile!):
 
 ![Visit Button](http://i.imgur.com/yy2nedg.png)
 
