@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=com.altvr.AltspaceVR&hl=en
 
 ### Step 2: Register account
 
-You'll need to create an AltspaceVR account. (Or sign in if you have one already.) Skip the intro and fill out the registration form:
+You'll need to create an AltspaceVR account. (Or sign in if you have one already.) Launch the app, skip the intro and fill out the registration form:
 
 ![Skip Slides](http://i.imgur.com/DJSMWrb.png)
 
